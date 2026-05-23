@@ -1,0 +1,6 @@
+{
+  "name": "ASCEND",
+  "description": "Futuristic cyberpunk self-improvement RPG. Complete missions, climb ranks, fight real-life bosses, unlock massive skill trees, and converse with a tactical AI Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
